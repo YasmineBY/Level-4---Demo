@@ -14,7 +14,7 @@
   <component name="ProjectId" id="1ZOcZZQP363oVOMuB4y0nG7FQtb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task 4 - Demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../shopping-list-kotlin-master" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +46,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
